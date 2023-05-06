@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1683385957">
-  <project timestamp="1683385957">
+<coverage generated="1683386696">
+  <project timestamp="1683386696">
     <file name="/app/src/FIVatNumberFormatValidatorsConfig.php">
       <class name="rocketfellows\FIVatNumberFormatValidatorsConfig\FIVatNumberFormatValidatorsConfig" namespace="global">
         <metrics complexity="2" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
